@@ -1,6 +1,6 @@
 # Strip Trailing Whitespace mixin for Chocolat
 
-This mixin adds an action to trim trailing whitespace from lines in Chocolat.
+This mixin adds an action to trim trailing whitespace from lines in [Chocolat](http://chocolatapp.com).
 
 ## Requirements
 
