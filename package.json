@@ -1,0 +1,20 @@
+{
+  "name": "strip-trailing-whitespace",
+  "version": "1.0.0",
+  "description": "Adds command to remove trailing whitespace to Chocolat",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudge/strip-trailing-whitespace.chocmixin.git"
+  },
+  "keywords": [
+    "whitespace",
+    "strip",
+    "lines",
+    "clean",
+    "space",
+    "code"
+  ],
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT"
+}
